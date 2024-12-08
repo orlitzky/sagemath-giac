@@ -1,0 +1,4 @@
+sagemath-giac-0.1.0 (2024-12-XX)
+
+  * Initial release. This is the same sage.libs.giac module
+    that was shipped alongside SageMath in the past.
